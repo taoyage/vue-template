@@ -1,0 +1,23 @@
+// 字体规范
+$font-size-small-s: 10px;
+$font-size-small: 12px;
+$font-size-medium: 14px;
+$font-size-medium-x: 16px;
+$font-size-large: 18px;
+$font-size-large-x: 22px;
+$font-family-no-number: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family: "Helvetica Neue For Number", $font-family-no-number;
+
+//颜色定义规范
+$color-background: #fff;
+$color-text: fade(#000, 65%);
+$color-heading: fade(#000, 85%);
+$color-link: #108ee9;
+$color-link-hover: #49a9ee;
+$color-link-active: #0e77ca;
+$color-disabled: rgba(0, 0, 0, 0.25);
+
+
+
+
+
